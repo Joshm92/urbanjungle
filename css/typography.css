@@ -1,5 +1,35 @@
+@font-face {
+    font-family:"Rohza";
+    font-weight:normal;
+    src: url("../fonts/Rozha_One/RozhaOne-Regular.ttf") format('truetype')
+}
+
+@font-face {
+    font-family:"tajawal-light";
+    font-weight:normal;
+    src: url("../fonts/Tajawal/Tajawal-Light.ttf") format('truetype')
+}
+
+@font-face {
+    font-family:"tajawal-regular";
+    font-weight:normal;
+    src: url("../fonts/Tajawal/Tajawal-Regular.ttf") format('truetype')
+}
+
+body {
+    font-family:"tajawal-regular", "Arial", "Sans-Serif";
+    
+}
+
 .main-heading {
-    font-family:arial;
+    font-family:"Rohza", "Arial", "Sans-Serif";
     font-size:4rem;
-    color:black;
+    color: #304025;
+}
+
+.nav-link {
+    font-family: "tajawal-light", "Arial", "Sans-Serif";
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #735F5D;
 }
