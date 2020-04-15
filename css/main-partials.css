@@ -1,0 +1,25 @@
+.content {
+    max-width:900px;
+    margin:0px auto;
+   /* box-shadow:0px 0px 5px 0px black;*/
+}
+
+.header-main {
+    overflow: hidden;
+    padding:10px;
+}
+
+.main-heading {
+    margin: 4rem;
+    text-align: center;
+}
+
+/* .header-main h3 {
+    max-width:900px;
+    /* position:absolute; */
+    /* top:40px; */
+/* } */
+
+.header-main nav {
+    margin:10px;
+}
