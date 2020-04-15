@@ -1,0 +1,19 @@
+/*the smallest bits go first in the import list. Atoms first then molecules then organisms*/
+
+/*setup*/
+@import 'reset.css';
+@import 'settings.css';
+
+/*atoms*/
+@import 'typography.css';
+@import 'buttons.css';
+@import 'icons.css';
+
+/*molecules*/
+@import 'cards.css';
+@import 'images.css';
+@import 'forms.css';
+
+@import 'gallery.css';
+
+@import 'main-partials.css'
