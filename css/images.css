@@ -1,3 +1,22 @@
+.front-images-one {
+    /* max-width: 10rem; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+
+.front-images-two {
+  /* max-width: 10rem; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 1rem;
+}
+
 .front-image {
-    max-width: 40rem;
+    width:30rem;
+    margin: 2rem;
+    /* filter: drop-shadow(1px 1px 1px black); */
+  
 }
