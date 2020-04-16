@@ -1,0 +1,49 @@
+
+/* .inspo-card {
+    /* border: solid 1px tomato; */
+
+
+.inspo-image {
+    width:30rem;
+    /* margin: 2rem; */
+    background-size: cover;
+}
+
+.inspo-text {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: -2rem;
+    max-width: 30rem;
+}
+
+.inspo-title {
+    display: inline-block;
+    position: absolute;
+    margin-top: 6rem;
+    margin-left: -4rem;
+    max-width: 30rem;
+}
+
+.inspo-image-rev {
+    width:30rem;
+    float:right;
+    /* margin: 2rem; */
+    background-size: cover;
+}
+
+.inspo-text-rev {
+    display: inline-block;
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 1rem;
+    max-width: 30rem;
+}
+
+.inspo-title-rev {
+    display: inline-block;
+    position: absolute;
+    margin-top: 6rem;
+    margin-left: -4rem;
+    max-width: 30rem;
+}
