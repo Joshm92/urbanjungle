@@ -4,6 +4,7 @@
     flex-direction: row;
     justify-content: space-evenly;
     margin-top: 2rem;
+    object-fit: contain;
 }
 
 .front-images-two {
@@ -12,11 +13,20 @@
   flex-direction: row;
   justify-content: space-evenly;
   margin-top: 1rem;
+  object-fit: contain;
 }
 
 .front-image {
     width:30rem;
     margin: 2rem;
+    background-size: cover;
+    overflow: hidden;
     /* filter: drop-shadow(1px 1px 1px black); */
   
 }
+
+.front-image:hover {
+    filter: blur(2px);
+    
+}
+

@@ -33,3 +33,8 @@ body {
     text-decoration: none;
     color: #735F5D;
 }
+
+footer {
+    max-width: 100%;
+    background-color: #304025;
+}
