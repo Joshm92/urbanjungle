@@ -16,6 +16,12 @@
     src: url("../fonts/Tajawal/Tajawal-Regular.ttf") format('truetype')
 }
 
+@font-face {
+    font-family:"reenie-beanie";
+    font-weight:normal;
+    src: url("../fonts/Reenie_Beanie/ReenieBeanie-Regular.ttf") format('truetype')
+}
+
 body {
     font-family:"tajawal-regular", "Arial", "Sans-Serif";
     
@@ -34,7 +40,9 @@ body {
     color: #735F5D;
 }
 
-footer {
-    max-width: 100%;
-    background-color: #304025;
+.footer-text {
+    font-family: "reenie-beanie", "Arial", "Sans-Serif";
+    font-size: 1.5rem;
+    color: white;
 }
+

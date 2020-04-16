@@ -33,3 +33,12 @@ a:hover {
 }
 
 
+footer {
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color: #304025;
+}
+
+.footer-text {
+    margin-top:1rem;
+}
