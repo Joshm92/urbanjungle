@@ -13,7 +13,7 @@
     display: inline-block;
     position: absolute;
     margin-top: 10rem;
-    margin-left: -2rem;
+    margin-left: 2rem;
     max-width: 30rem;
 }
 
@@ -21,7 +21,7 @@
     display: inline-block;
     position: absolute;
     margin-top: 6rem;
-    margin-left: -4rem;
+    margin-left: 10rem;
     max-width: 30rem;
 }
 
@@ -44,6 +44,6 @@
     display: inline-block;
     position: absolute;
     margin-top: 6rem;
-    margin-left: -4rem;
+    margin-left: 9rem;
     max-width: 30rem;
 }
